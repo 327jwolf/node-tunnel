@@ -6,6 +6,8 @@ Allows you to open to forward any custom port (rdp, ssh, proxies, whatever) from
 
 ![](https://github.com/mgrybyk/node-tunnel/blob/images-only/imgs/client-server-agent.png?raw=true)
 
+https://www.codeproject.com/Articles/1195419/Reverse-tunneling-port-forwarding-with-Node-js
+
 0. have latest nodejs (8+) and npm
 1. clone repo
 2. npm i
